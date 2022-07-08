@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "peacefultable:block/peaceful_table_front",
+    "down": "minecraft:block/oak_planks",
+    "up": "peacefultable:block/peaceful_table_top",
+    "north": "peacefultable:block/peaceful_table_front",
+    "east": "peacefultable:block/peaceful_table_side",
+    "south": "peacefultable:block/peaceful_table_front",
+    "west": "peacefultable:block/peaceful_table_side"
+  }
+}
